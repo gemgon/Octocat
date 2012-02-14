@@ -1,6 +1,7 @@
 # Octocat amigurumi pattern
 
-This is an Octocat amigurumi pattern.
+This is an [Octocat amigurumi pattern](http://gemgon.github.com/Octocat).
+
 It's composed by: head, face, 2 ears, neck, 4 legs, arm and felt details.
 
 ## Materials:
@@ -41,4 +42,8 @@ First crochet every part, then sew them following this order:
 
 Octocatgurumi made by [Gema González](http://twitter.com/gemgon).
 
-Copyright © 2012 Gema González, released under the BeerWare License (see License.txt)
+Pattern Copyright © 2012 Gema González, released under the BeerWare License (see License.txt)
+
+[Octocat](http://octodex.github.com) and the Octocat logo design are exclusive trademarks of [GitHub](http://github.com).
+
+
