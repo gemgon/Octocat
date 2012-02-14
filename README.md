@@ -36,3 +36,9 @@ First crochet every part, then sew them following this order:
 * Sew the beads to the arm, then the arm at a point between neck and leg.
 * Sew neck to head.
 * Add the whiskers.
+
+## Credits
+
+Octocatgurumi made by [Gema González](http://twitter.com/gemgon).
+
+Copyright © 2012 Gema González, released under the BeerWare License (see License.txt)
