@@ -2,6 +2,8 @@
 
 This is an [Octocat amigurumi pattern](http://gemgon.github.com/Octocat).
 
+![Octocat amigurumi](https://github.com/gemgon/Octocat/raw/master/octocat.jpg "Octocat amigurumi")
+
 It's composed by: head, face, 2 ears, neck, 4 legs, arm and felt details.
 
 ## Materials:
