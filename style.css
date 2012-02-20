@@ -12,7 +12,6 @@ a{
   text-decoration:none;
   color:#272727;
 }
-li{list-style-type:none;}
 
 /*a darle forma*/
 .wrapper{
@@ -29,7 +28,7 @@ h1,header p{
 }
 .main{
   float:left;
-  width:430px;
+  width:410px;
   margin-bottom:20px;
 }
 p{
