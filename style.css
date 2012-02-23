@@ -32,7 +32,8 @@ h1,header p{
   margin-bottom:20px;
 }
 p{
-  margin-bottom:15px;
+  margin:0 10px 15px 10px;
+/*  text-align:justify;*/
 }
 a.btn{
   display:block;
@@ -41,7 +42,7 @@ a.btn{
   border: 1px solid #7f8ce1;
   border-radius:10px;
   padding:5px;
-  margin:30px auto;
+  margin:30px 10px;
   cursor: pointer;
 }
 a:hover {
