@@ -1,10 +1,14 @@
 # Octocat amigurumi pattern
 
+*[Traducción al castellano](https://github.com/belen-albeza/Octocat/blob/master/es/README.md) de este documento. Spanish translation of this document [here](https://github.com/belen-albeza/Octocat/blob/master/es/README.md)*
+
 This is an [Octocat amigurumi pattern](http://gemgon.github.com/Octocat).
 
 ![Octocat amigurumi](https://github.com/gemgon/Octocat/raw/master/octocat.jpg "Octocat amigurumi")
 
 It's composed by: head, face, 2 ears, neck, 4 legs, arm and felt details.
+
+![Octocat breakdown](https://github.com/belen-albeza/Octocat/raw/master/breakdown.jpg "Octocat breakdown")
 
 ## Materials:
 
