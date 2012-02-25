@@ -6,6 +6,8 @@ Esta es la edición en castellano del [patrón amigurumi del Octocat (Pulpogato)
 
 Se compone de: cabeza, cara, 2 orejas, cuello, 4 patas, brazo y detalles en fieltro.
 
+![Octocat breakdown](https://github.com/belen-albeza/Octocat/raw/master/breakdown.jpg "Octocat breakdown")
+
 ## Materiales:
 
 * Hilo negro.

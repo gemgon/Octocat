@@ -6,6 +6,8 @@ This is an [Octocat amigurumi pattern](http://gemgon.github.com/Octocat).
 
 It's composed by: head, face, 2 ears, neck, 4 legs, arm and felt details.
 
+![Octocat breakdown](https://github.com/belen-albeza/Octocat/raw/master/breakdown.jpg "Octocat breakdown")
+
 ## Materials:
 
 * Black yarn.
