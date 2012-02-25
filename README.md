@@ -1,5 +1,7 @@
 # Octocat amigurumi pattern
 
+*[Traducción al castellano](https://github.com/belen-albeza/Octocat/blob/master/es/README.md) de este documento. Spanish translation of this document [here](https://github.com/belen-albeza/Octocat/blob/master/es/README.md)*
+
 This is an [Octocat amigurumi pattern](http://gemgon.github.com/Octocat).
 
 ![Octocat amigurumi](https://github.com/gemgon/Octocat/raw/master/octocat.jpg "Octocat amigurumi")
